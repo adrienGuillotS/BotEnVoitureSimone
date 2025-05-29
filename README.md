@@ -5,8 +5,8 @@ Ce dépôt contient un bot développé en **Python 3.12** utilisant **Selenium**
 
 ## Structure du projet
 
-- `bot.py` : Le cœur du bot. Ce fichier est **à adapter selon vos besoins** pour automatiser les actions spécifiques à votre usage.
-- `passwordcrypt.py` : Un outil simple pour **chiffrer vos informations personnelles** (identifiants, mots de passe, etc.).
+- `bot.py` : Le bot. Ce fichier est **à adapter selon vos besoins** pour automatiser les actions spécifiques.
+- `passwordcrypt.py` : outil pour **chiffrer vos informations personnelles** (identifiants, mots de passe, etc.). Utile si vous hebergé votre bot sur le cloud.
 
 ## Hébergement
 
