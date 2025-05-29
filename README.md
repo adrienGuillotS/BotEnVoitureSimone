@@ -1,7 +1,7 @@
 # BotEnVoitureSimone
 
 
-Ce dépôt contient un bot développé en **Python 3.12** utilisant **Selenium** pour automatiser des tâches sur la plateforme EVS.
+Ce dépôt contient un bot développé en **Python 3.12** utilisant **Selenium** pour recevoir un mail dès qu'une disponibilité ce libère sur EVS.
 
 ## Structure du projet
 
