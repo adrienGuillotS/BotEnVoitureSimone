@@ -343,7 +343,7 @@ def check_disponibilites():
             # Parser la date et vérifier
             date_obj = parse_date(date_text)
             if date_obj:
-                date_limite = datetime(2026, 1, 21)
+                date_limite = datetime(2026, 1, 9)
                 date_initiale = datetime(2026, 1, 7)
                 if date_obj < date_limite and date_obj >= date_initiale:
                     print(
